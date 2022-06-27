@@ -5,12 +5,12 @@ Features
 
 Syntax /crim
 
-	- Waypoints and map
-	- Dojo helper 
-	- Kuudra Boss
-		- Health display
-		- Mana bomb warning
-		- Dropship warning
+- Wayponts and map
+- Dojo helper 
+- Kuudra Boss
+	- Health display
+	- Mana bomb warning
+	- Dropship warning
 - Buff display
 - Dropship health display
 	- More visible orbs
