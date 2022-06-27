@@ -11,8 +11,8 @@ Syntax /crim
 	- Health display
 	- Mana bomb warning
 	- Dropship warning
-- Buff display
-- Dropship health display
+	- Buff display
+	- Dropship health display
 	- More visible orbs
 	- See party members armor
 
