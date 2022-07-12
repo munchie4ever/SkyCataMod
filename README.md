@@ -1,20 +1,19 @@
-# SkyCrimMod
-SkyCrim is a Hypixel skyblock mod that helps you throght the crimson isle
+# SkyCataMod
+SkyCata is a Hypixel skyblock mod that helps you throght the catacombs
 
 Features
 
-Syntax /crim
+Syntax /cata
 
-- Wayponts and map
-- Dojo helper 
-- Kuudra Boss
+- Secret Wayponts and map
+- Puzzle solver 
+- F7 helper
 	- Health display
-	- Mana bomb warning
-	- Dropship warning
-	- Buff display
-	- Dropship health display
-	- More visible orbs
+	- Thunder warning
 	- See party members armor
+- Milestone display
+- Score display
+- Chest counter (per room)
 
 - Daily Quest helper/waypoints 
 - Miniboss helper
